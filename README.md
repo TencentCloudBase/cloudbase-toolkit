@@ -1,5 +1,7 @@
 # Tencent CloudBase Toolkit
 
+> 注意：该 vscode 插件已停止维护！！！
+
 Tencent CloudBase Toolkit 是腾讯云 - 云开发发布的 VS Code（Visual Studio Code）插件。该插件可以让您更好地在本地进行云开发项目开发和代码调试，并且轻松将项目部署到云端。
 
 通过 Tencent CloudBase Toolkit 插件，您可以：
